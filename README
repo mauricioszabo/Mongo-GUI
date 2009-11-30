@@ -1,0 +1,9 @@
+Mongo GUI (Por falta de um nome melhor...)
+
+Este é um protótipo, sem fins de complexidade ou mesmo de ser completo, de uma interface gráfica para
+o MongoDB. É mais para fácil visualização de documentos em um banco de dados Mongo, e acompanha também
+um console que funciona mais ou menos igual ao console Javascript que vem com o MongoDB.
+
+Comandos do console:
+use "database" -> para selecionar o banco de dados database
+db.pessoas.find  -> para buscar todos os documentos da coleção pessoas.
